@@ -12,6 +12,7 @@ height = cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
 
 final_txt = ''
 
+
 BLUE = (255, 255, 0)
 GREEN = (0, 255, 0)
 flag = BLUE
